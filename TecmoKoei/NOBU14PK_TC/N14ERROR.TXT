@@ -1,0 +1,496 @@
+boot_path:E:\Nobunaga14PK\
+windows folder path = C:\Windows
+temp folder path = C:\Users\Dang\AppData\Local\Temp\
+my doccuments path = D:\Users\Dang\Documents
+user default LCID = 2052
+system default langage ID = 2052
+system default UI langage = 2052
+autholity level --------------------------------
+ADMINS
+USERS
+------------------------------------------------
+Microsoft Windows 8  6.2  (Build 9200)
+MEMORY : 2047M
+CPU : Pentium 
+GenuineIntel
+INTEL Pentium-III
+MMX ok
+SSE ok
+SSE2 ok
+family 06 model a stepping 9 
+3392.440 MHz 
+
+ 
+曄峏壜擻側夋柺儌乕僪
+     640亊 480 True Color(32bit)
+     640亊 480 True Color(32bit)
+     640亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1152亊 864 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊1024 True Color(32bit)
+    1280亊1024 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+仚  1440亊 900 True Color(32bit)
+仚  1440亊 900 True Color(32bit)
+     640亊 480 High Color
+     640亊 480 High Color
+     640亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+    1024亊 768 High Color
+    1024亊 768 High Color
+    1024亊 768 High Color
+    1152亊 864 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 960 High Color
+    1280亊 960 High Color
+    1280亊 960 High Color
+    1280亊 960 High Color
+    1280亊 960 High Color
+    1280亊 960 High Color
+    1280亊1024 High Color
+    1280亊1024 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1440亊 900 High Color
+    1440亊 900 High Color
+     640亊 480 256︹
+     640亊 480 256︹
+     640亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 480 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     720亊 576 256︹
+     800亊 600 256︹
+     800亊 600 256︹
+     800亊 600 256︹
+     800亊 600 256︹
+    1024亊 768 256︹
+    1024亊 768 256︹
+    1024亊 768 256︹
+    1152亊 864 256︹
+    1280亊 720 256︹
+    1280亊 720 256︹
+    1280亊 720 256︹
+    1280亊 720 256︹
+    1280亊 720 256︹
+    1280亊 720 256︹
+    1280亊 768 256︹
+    1280亊 768 256︹
+    1280亊 768 256︹
+    1280亊 768 256︹
+    1280亊 768 256︹
+    1280亊 768 256︹
+    1280亊 800 256︹
+    1280亊 800 256︹
+    1280亊 800 256︹
+    1280亊 800 256︹
+    1280亊 800 256︹
+    1280亊 800 256︹
+    1280亊 960 256︹
+    1280亊 960 256︹
+    1280亊 960 256︹
+    1280亊 960 256︹
+    1280亊 960 256︹
+    1280亊 960 256︹
+    1280亊1024 256︹
+    1280亊1024 256︹
+    1360亊 768 256︹
+    1360亊 768 256︹
+    1360亊 768 256︹
+    1360亊 768 256︹
+    1360亊 768 256︹
+    1360亊 768 256︹
+    1366亊 768 256︹
+    1366亊 768 256︹
+    1366亊 768 256︹
+    1366亊 768 256︹
+    1366亊 768 256︹
+    1366亊 768 256︹
+    1440亊 900 256︹
+    1440亊 900 256︹
+ 
+DLL System Version 
+ KERNEL32.DLL : Version 10.0.10586.0 
+ NTDLL.DLL : Version 10.0.10586.306 
+ SHELL32.DLL : Version 10.0.10586.494 
+ COMCTL32.DLL : Version 5.82.10586.0 
+ GDI32.DLL : Version 10.0.10586.420 
+ USER32.DLL : Version 10.0.10586.306 
+ IMM32.DLL : Version 10.0.10586.0 
+ msctfime.ime : Version 6.2.10586.0 
+ nstDFF2.tmp.SogouPY_.ime : Version 8.0.0.8083 
+ nsxEA54.tmp.SogouTSF_.ime : Version 8.0.0.8083 
+ SogouPY.ime : Version 8.0.0.8169 
+ SogouTSF.ime : Version 8.0.0.8169 
+ DDRAW.DLL : Version 10.0.10586.0 
+ D3D8.DLL : Version 10.0.10586.0 
+ D3D9.DLL : Version 10.0.10586.494 
+ DSOUND.DLL : Version 10.0.10586.0 
+ DSOUND3D.DLL : 僶乕僕儑儞偑庢摼偱偒傑偣傫偱偟偨丅
+
+ QUARTZ.DLL : Version 10.0.10586.71 
+ NOBU14.EXE : Version 1.0.0.3 
+ N14PKLAUNCHER.EXE : Version 1.0.0.0 
+
+
+ Adapter:NVIDIA GeForce GT 430:Driver:nvd3dum.dll
+
+ Adapter:NVIDIA GeForce GT 430:Driver:nvd3dum.dll
+
+SoundDevice
+??竟/旦 (Realtek High Definition Audio)
+Default DirectSound Device
+Default WaveOut Device
+DirectSound: ??竟/旦 (Realtek High Definition Audio)
+
+DirectShow Filter
+0 WMAudio Decoder DMO
+1 WMAPro over S/PDIF DMO
+2 WMSpeech Decoder DMO
+3 MP3 Decoder DMO
+4 Mpeg4s Decoder DMO
+5 WMV Screen decoder DMO
+6 WMVideo Decoder DMO
+7 Mpeg43 Decoder DMO
+8 Mpeg4 Decoder DMO
+9 DV Muxer {129D7E40-C10D-11D0-AFB9-00AA00B67A42}
+10 Color Space Converter {1643E180-90F5-11CE-97D5-00AA0055595A}
+11 WM ASF Reader {187463A0-5BB7-11D3-ACBE-0080C75E246E}
+12 AVI Splitter {1B544C20-FD0B-11CE-8C63-00AA0044B51E}
+13 VGA 16 Color Ditherer {1DA08500-9EDC-11CF-BC10-00AA00AC74F6}
+14 SBE2MediaTypeProfile {1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}
+15 Microsoft DTV-DVD Video Decoder {212690FB-83E5-4526-8FD7-74478B7939CD}
+16 AC3 Parser Filter {280A3020-86CF-11D1-ABE6-00A0C905F375}
+17 StreamBufferSink {2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}
+18 MJPEG Decompressor {301056D0-6DFF-11D2-9EEB-006008039E37}
+19 MPEG-I Stream Splitter {336475D0-942A-11CE-A870-00AA002FEAB5}
+20 SAMI (CC) Parser {33FACFE0-A9BE-11D0-A520-00A0D10129C0}
+21 VBI Codec {370A1D5D-DDEB-418C-81CD-189E0D4FA443}
+22 MPEG-2 Splitter {3AE86B20-7BE8-11D1-ABE6-00A0C905F375}
+23 Closed Captions Analysis Filter {3D07A539-35CA-447C-9B05-8D85CE924F9E}
+24 SBE2FileScan {3E458037-0CA6-41aa-A594-2AA6C02D709B}
+25 Microsoft MPEG-2 Video Encoder {42150CD9-CA9A-4EA5-9939-30EE037F6E74}
+26 Internal Script Command Renderer {48025243-2D39-11CE-875D-00608CB78066}
+27 MPEG Audio Decoder {4A2286E0-7BEF-11CE-9BD9-0000E202599C}
+28 DV Splitter {4EB31670-9FC6-11CF-AF6E-00AA00B67A42}
+29 Video Mixing Renderer 9 {51B4ABF3-748F-4E3B-A276-C828330E926A}
+30 Microsoft MPEG-2 Encoder {5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}
+31 ACM Wrapper {6A08CF80-0E18-11CF-A24D-0020AFD79767}
+32 Video Renderer {6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}
+33 MPEG-2 Video Stream Analyzer {6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}
+34 Line 21 Decoder {6E8D4A20-310C-11D0-B79A-00AA003767A7}
+35 Video Port Manager {6F26A6CD-967B-47FD-874A-7AED2C9D25A2}
+36 Video Renderer {70E102B0-5556-11CE-97C0-00AA0055595A}
+37 VPS Decoder {7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}
+38 WM ASF Writer {7C23220E-55BB-11D3-8B16-00C04FB6BD3D}
+39 VBI Surface Allocator {814B9800-1C88-11D1-BAD9-00609744111A}
+40 File writer {8596E5F0-0DA5-11D0-BD21-00A0C911CE86}
+41 DVD Navigator {9B8C4620-2C1A-11D0-8493-00A02438AD48}
+42 Overlay Mixer2 {A0025E90-E45B-11D1-ABE9-00A0C905F375}
+43 AVI Draw {A888DF60-1E90-11CF-AC98-00AA004C0FA9}
+44 Microsoft MPEG-2 Audio Encoder {ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}
+45 WST Pager {AD6C8934-F31B-4F43-B5E4-0541C1452F6F}
+46 MPEG-2 Demultiplexer {AFB6C280-2C41-11D3-8A60-0000F81E0E4A}
+47 DV Video Decoder {B1B77C00-C3E4-11CF-AF79-00AA00B67A42}
+48 SampleGrabber {C1F400A0-3F08-11D3-9F0B-006008039E37}
+49 Null Renderer {C1F400A4-3F08-11D3-9F0B-006008039E37}
+50 MPEG-2 Sections and Tables {C666E115-BB62-4027-A113-82D643FE2D99}
+51 Microsoft AC3 Encoder {C6B400E2-20A7-4E58-A2FE-24619682CE6C}
+52 StreamBufferSource {C9F5FE02-F851-4EB5-99EE-AD602AF1E619}
+53 Smart Tee {CC58E280-8AA1-11D1-B3F1-00AA003761C5}
+54 Overlay Mixer {CD8743A1-3736-11D0-9E69-00C04FD7C15B}
+55 AVI Decompressor {CF49D4E0-1115-11CE-B03A-0020AF0BA770}
+56 AVI/WAV File Source {D3588AB0-0781-11CE-B03A-0020AF0BA770}
+57 Wave Parser {D51BD5A1-7548-11CF-A520-0080C77EF58A}
+58 MIDI Parser {D51BD5A2-7548-11CF-A520-0080C77EF58A}
+59 Multi-file Parser {D51BD5A3-7548-11CF-A520-0080C77EF58A}
+60 File stream renderer {D51BD5A5-7548-11CF-A520-0080C77EF58A}
+61 Microsoft DTV-DVD Audio Decoder {E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}
+62 StreamBufferSink2 {E2448508-95DA-4205-9A27-7EC81E723B1A}
+63 AVI Mux {E2510970-F137-11CE-8B67-00AA00A3F1A6}
+64 Line 21 Decoder 2 {E4206432-01A1-4BEE-B3E1-3702C8EDC574}
+65 File Source (Async.) {E436EBB5-524F-11CE-9F53-0020AF0BA770}
+66 File Source (URL) {E436EBB6-524F-11CE-9F53-0020AF0BA770}
+67 Infinite Pin Tee Filter {F8388A40-D5BB-11D0-BE5A-0080C706568E}
+68 Enhanced Video Renderer {FA10746C-9B63-4B6C-BC49-FC300EA5F256}
+69 BDA MPEG2 Transport Information Filter {FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}
+70 MPEG Video Decoder {FEB50740-7BEF-11CE-9BD9-0000E202599C}
+DV Video Decoder 
+
+registry infomation 
+:ACPI丗@acpi.inf,%*pnp0c08.devicedesc%;Microsoft ACPI-Compliant System: : Microsoft :Date 6-21-2006 Ver 10.0.10586.122: @acpi.inf,%msft%;Microsoft
+:BasicDisplay丗@basicdisplay.inf,%msbddfallbackname%;Microsoft Basic Display Driver: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @basicdisplay.inf,%std%;(Standard display types)
+:BasicRender丗@basicrender.inf,%basicrender%;Microsoft Basic Render Driver: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @basicrender.inf,%ms%;Microsoft
+:CompositeBus丗@compositebus.inf,%compositebus.devicedesc%;Composite Bus Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @compositebus.inf,%msft%;Microsoft
+:HDAudBus丗@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller: : Microsoft :Date 10-29-2015 Ver 10.0.10586.0: @hdaudbus.inf,%msft%;Microsoft
+:HDAudBus丗@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller: : Microsoft :Date 10-29-2015 Ver 10.0.10586.0: @hdaudbus.inf,%msft%;Microsoft
+:HidUsb丗@input.inf,%hid.devicedesc%;USB Input Device: : Microsoft :Date 6-21-2006 Ver 10.0.10586.420: @input.inf,%stdmfg%;(Standard system devices)
+:HidUsb丗@input.inf,%hid.devicedesc%;USB Input Device: : Microsoft :Date 6-21-2006 Ver 10.0.10586.420: @input.inf,%stdmfg%;(Standard system devices)
+:IntcAzAudAddService丗Realtek High Definition Audio: : Realtek Semiconductor Corp. :Date 6-30-2015 Ver 6.0.1.6075: @oem14.inf,%mfgname%;Realtek
+:MEIx64丗@oem8.inf,%heci_devicedesc%;Intel(R) Management Engine Interface : : Intel :Date 7-2-2012 Ver 8.1.0.1263: @oem8.inf,%mfgname%;Intel
+:NVHDA丗@oem13.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 7-13-2015 Ver 1.3.34.3: @oem13.inf,%mfgname%;NVIDIA
+:NVHDA丗@oem13.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 7-13-2015 Ver 1.3.34.3: @oem13.inf,%mfgname%;NVIDIA
+:NVHDA丗@oem13.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 7-13-2015 Ver 1.3.34.3: @oem13.inf,%mfgname%;NVIDIA
+:NVHDA丗@oem13.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 7-13-2015 Ver 1.3.34.3: @oem13.inf,%mfgname%;NVIDIA
+:Serial丗@msports.inf,%*pnp0501.devicedesc%;通信端口: 通信端口 (COM1): Microsoft :Date 6-21-2006 Ver 10.0.10586.212: @msports.inf,%std%;(标准端口类型)
+:Serial丗@msports.inf,%*pnp0501.devicedesc%;通信端口: 通信端口 (COM1): Microsoft :Date 6-21-2006 Ver 10.0.10586.212: @msports.inf,%std%;(标准端口类型)
+:USBHUB3丗@usbhub3.inf,%usbhub3.roothubdevicedesc%;USB Root Hub (xHCI): : Microsoft :Date 4-22-2016 Ver 10.0.10586.306: @usbhub3.inf,%generic.mfg%;(Standard USB HUBs)
+:atapi丗@mshdc.inf,%idechannel.devicedesc%;IDE Channel: ATA Channel 0: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+:atapi丗@mshdc.inf,%idechannel.devicedesc%;IDE Channel: ATA Channel 1: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+:atapi丗@mshdc.inf,%idechannel.devicedesc%;IDE Channel: ATA Channel 0: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+:atapi丗@mshdc.inf,%idechannel.devicedesc%;IDE Channel: ATA Channel 1: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+:cdrom丗@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive: PLDS DVD+-RW DH-16AES ATA Device: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @cdrom.inf,%genmanufacturer%;(Standard CD-ROM drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: WDC WD10EZEX-75ZF5A0 ATA Device: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: ST3500320AS ATA Device: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: WDC WD10EZEX-75ZF5A0 ATA Device: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: ST3500320AS ATA Device: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:e1cexpress丗@oem1.inf,%e1502nc.devicedesc%;Intel(R) 82579LM Gigabit Network Connection: Intel(R) 82579LM Gigabit Network Connection: Intel :Date 5-2-2014 Ver 12.10.29.0: @oem1.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.10586.0: @cpu.inf,%intel%;Intel
+:kdnic丗@kdnic.inf,%kdnic.devicedesc%;Microsoft Kernel Debug Network Adapter: Microsoft Kernel Debug Network Adapter: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @kdnic.inf,%msft%;Microsoft
+:msisadrv丗@machine.inf,%lpccontroller_desc%;LPC Controller: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @machine.inf,%intel_mfg%;Intel
+:nvlddmkm丗@oem11.inf,%nvidia_dev.0de1%;NVIDIA GeForce GT 430: : NVIDIA :Date 7-13-2015 Ver 10.18.13.5354: @oem11.inf,%nvidia_a%;NVIDIA
+:pci丗@pci.inf,%*pnp0a08.devicedesc%;PCI Express Root Complex: : Microsoft :Date 6-21-2006 Ver 10.0.10586.494: @pci.inf,%gendev_mfg%;(Standard system devices)
+:pci丗@pci.inf,%pci\cc_0604.devicedesc%;PCI-to-PCI Bridge: : Microsoft :Date 6-21-2006 Ver 10.0.10586.494: @pci.inf,%gendev_mfg%;(Standard system devices)
+:pci丗@pci.inf,%pci\cc_0604.devicedesc%;PCI-to-PCI Bridge: : Microsoft :Date 6-21-2006 Ver 10.0.10586.494: @pci.inf,%gendev_mfg%;(Standard system devices)
+:pciide丗@mshdc.inf,%pci\cc_0101.devicedesc%;Standard Dual Channel PCI IDE Controller: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+:pciide丗@mshdc.inf,%pci\cc_0101.devicedesc%;Standard Dual Channel PCI IDE Controller: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+:spaceport丗@spaceport.inf,%spaceport_devicedesc%;Microsoft Storage Spaces Controller: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @spaceport.inf,%msft%;Microsoft
+:swenum丗@swenum.inf,%swenum.devicedesc%;Plug and Play Software Device Enumerator: : Microsoft :Date 10-29-2015 Ver 10.0.10586.0: @swenum.inf,%gendev_mfg%;(Standard system devices)
+:tunnel丗@nettun.inf,%teredo.displayname%;Microsoft Teredo Tunneling Adapter: Teredo Tunneling Pseudo-Interface: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @nettun.inf,%msft%;Microsoft
+:tunnel丗@nettun.inf,%isatap.displayname%;Microsoft ISATAP Adapter: Microsoft ISATAP Adapter: Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @nettun.inf,%msft%;Microsoft
+:umbus丗@umbus.inf,%umbusroot.devicedesc%;UMBus Root Bus Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @umbus.inf,%ms%;Microsoft
+:usbehci丗@usbport.inf,%pci\ven_8086&dev_1e2d.devicedesc%;Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E2D: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @usbport.inf,%intel.mfg%;Intel
+:usbehci丗@usbport.inf,%pci\ven_8086&dev_1e26.devicedesc%;Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E26: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @usbport.inf,%intel.mfg%;Intel
+:usbhub丗@usbport.inf,%usb.roothub.devicedesc%;USB Root Hub: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+:usbhub丗@usbport.inf,%usb.roothub.devicedesc%;USB Root Hub: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+:usbhub丗@usb.inf,%usb.generichub.devicedesc%;Generic USB Hub: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+:usbhub丗@usb.inf,%usb.generichub.devicedesc%;Generic USB Hub: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+:vdrvroot丗@vdrvroot.inf,%vdrvroot.devicedesc%;Microsoft Virtual Drive Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @vdrvroot.inf,%msft%;Microsoft
+:volmgr丗@volmgr.inf,%volmgr.devicedesc%;Volume Manager: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volmgr.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+:volsnap丗@volume.inf,%storage\volume.devicedesc%;Generic volume: : Microsoft :Date 6-21-2006 Ver 10.0.10586.0: @volume.inf,%msft%;Microsoft
+
+kd3dapp::InitApp..ok
+SCREENSIZE_CX 1280
+SCREENSIZE_CY 720
+CG_QUALITY 1
+HW_CURSOR 0
+SWAPEFFECT 0
+WINDOW_MODE 1
+NO_BORDER 0
+CPU_CHECK 1
+SYSTEMINFO 1
+INTERVALIMMEDIATE 0
+CAPTURE_ENABLE 0
+AUTOSAVE_DISABLE 0
+FIRST_BOOT 0
+INITIALIZE_BGM 1
+INITIALIZE_VOICE 1
+INITIALIZE_SE 1
+MOVIE_PLAY 1
+MaxTextureWidth [1]
+AvailableTextureMem [4225761280]
+MaxVertexBlendMatrices [4]
+D3DTEXOPCAPS_MODULATE2X [0]
+D3DDTCAPS_UBYTE4 [1]
+D3DDTCAPS_UBYTE4N [1]
+MaxVertexIndex [16777215]
+kd3dapp::InitDevice..ok
+MaxTextureWidth [1]
+AvailableTextureMem [4225761280]
+MaxVertexBlendMatrices [4]
+D3DTEXOPCAPS_MODULATE2X [0]
+D3DDTCAPS_UBYTE4 [1]
+D3DDTCAPS_UBYTE4N [1]
+MaxVertexIndex [16777215]
+kd3dapp::Create..ok
+DLC Path: E:\Nobunaga14PK\DLC_PK
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+file:failed to open file
+kd3d_app::Destroy
+kd3dapp::EndApp..ok
+
+log end.
